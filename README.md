@@ -4,7 +4,7 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/rebeccacmanzi) -->
 
-## Hi, I'm Leandro 👋,
+## Hi, I'm Leandro 👋
 
 #### I'm a computer engineer working in Curitiba, Brazil
 
