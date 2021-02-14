@@ -18,4 +18,4 @@ In my spare time, I like to study about e-Mobility, smart cities and developing 
 - 💬 Ask me about: tech, cars, e-mobility, movies, music, guitar
 - ⚡ I use daily: `.dart`, `.cs`, `.java`, `.tsx`, `.js`, `.html`, `.css`
 
-Feel free to contact me through my LinkedIn profile.
+Feel free to contact me through my LinkedIn profile or email.
