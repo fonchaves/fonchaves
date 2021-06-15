@@ -5,13 +5,13 @@
 
 ## Hi, I'm Leandro 👋
 
-#### #### I'm a computer engineer working in Floripa (Magic Island), Brazil
+#### #### I'm a computer engineer working in Florianópolis, Brazil
 
 I have focused my studies on Full Stack development and Mobile UX Design.
 
 As a front end and mobile developer, I'm very excited with Flutter, but also I seek to improve my skills in Javascript technologies such as React and React Native. As a back end developer, I have focused for building systems with NodeJS.
 
-In my spare time, I like to study about e-Mobility, smart cities and developing small programming projects involving these areas. Finally, as not everything is just programming, as a hobby I seek to play eletric guitar to relax.
+In my spare time, I like to study about e-Mobility, information security, smart cities and developing small programming projects involving these areas. Finally, as not everything is just programming, as a hobby I seek to play eletric guitar to relax.
 
 - 🔭 I’m currently working on Mobile Apps with Flutter
 - 🌱 I’m currently learning about Flutter Animations
