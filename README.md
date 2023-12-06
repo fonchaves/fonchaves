@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fonchaves/)](https://www.linkedin.com/in/fonchaves/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@leandrochaves.me)](mailto:hey@leandrochaves.me)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@fonchaves.com)](mailto:hello@fonchaves.com)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_leandrochavesf)](https://twitter.com/_leandrochavesf) -->
 
@@ -9,13 +9,17 @@
 
 I have focused my studies on Full Stack development and Mobile UX Design.
 
-As a front end and mobile developer, I'm very excited with Flutter, but also I seek to improve my skills in Javascript technologies such as React and React Native. As a back end developer, I have focused for building systems with NodeJS.
+Currently, I am focused on enhancing my skills as a back-end developer, working on maintaining and developing API services using NestJS and Typescript. Additionally, I am working on personal projects using Golang.
 
-In my spare time, I like to study about e-Mobility, information security, smart cities and developing small programming projects involving these areas. Finally, as not everything is just programming, as a hobby I seek to play eletric guitar to relax.
+As a front-end and Mobile developer, I have extensive experience with Flutter and Dart. However, I have also worked with JavaScript, React, and Next.JS.
+
+I am passionate about working on projects related to Sustainability, e-mobility, and Green Energy.
+
+Finally, as not everything is just programming, as a hobby I seek to play electric guitar to relax.
 
 - 🔭 I’m currently working on Mobile Apps with Flutter
-- 🌱 I’m currently learning about Flutter Animations
+- 🌱 I’m currently working with NestJS and Typescript
 - 💬 Ask me about: tech, cars, e-mobility, movies, music, guitar
-- ⚡ I use daily: `.dart`, `.cs`, `.java`, `.tsx`, `.js`, `.html`, `.css`
+- ⚡ I use daily: `.dart`,`.tsx`, `.ts` `.js`, `.go`, `.java`, `.html`, `.css`
 
 Feel free to contact me through my LinkedIn profile or email.
